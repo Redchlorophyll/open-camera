@@ -62,7 +62,7 @@ async function detect(net, canvas) {
       boxes[0],
       classes[0],
       scores[0],
-      0.6,
+      0.4,
       videoWidth,
       videoHeight,
       ctx
